@@ -13,7 +13,7 @@ I've built a variety of projects, from **Airline Reservation Systems** and **Cre
 
 ### Fun Facts
 - I have a **cat** 🐱
-- I love playing **Tennis Table**
+- I love playing **Table Tennis**
 - **Breaking Bad** is my favorite TV Show 🔥  
 
 ### Hobbies
