@@ -1,4 +1,4 @@
-# Hi, I'm Miraya 👋
+# Hi, I'm Mostafa 👋
 
 I'm a **Computer Science Student @ E-JUST**
  
