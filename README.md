@@ -13,12 +13,12 @@ I've built a variety of projects, from **Airline Reservation Systems** and **Cre
 
 ### Fun Facts
 - I have a **cat** 🐱
-- - I love playing **Tennis Table**
+- I love playing **Tennis Table**
 - **Breaking Bad** is my favorite TV Show 🔥  
 
 ### Hobbies
 - Anime and TV shows  
 - Gym
 - Chess  
-- Building things 🛠️  
+- Building things 
 - Studying
