@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Miraya 👋
 
-<!--
-**Binary-Potato-0/Binary-Potato-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Student @ E-JUST**
+ 
+If an idea pops into my head, chances are I'll **build it and ship it**.  
 
-Here are some ideas to get you started:
+My main tech stack is **Python, Deep Learning, Neural Networks, Scikit-learn, and Gen AI**.  
+I also create projects using **Power BI**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've built a variety of projects, from **Airline Reservation Systems** and **Credit Scoring Models** to **Disease Prediction** and more.   
+
+---
+
+### Fun Facts
+- I have a **cat** 🐱
+- - I love playing **Tennis Table**
+- **Breaking Bad** is my favorite TV Show 🔥  
+
+### Hobbies
+- Anime and TV shows  
+- Gym
+- Chess  
+- Building things 🛠️  
+- Studying
